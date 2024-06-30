@@ -2,7 +2,7 @@ Scizors' Todo List for W7D4 Assignment: Walkthrough: Todo App (Flask). Here is a
 
 A simple to do list that we created in class. I have modified it in the following ways to complete the assignment:
   - Restyled to go with my personal branding and softer color palette.
-  - Changed from an unordered list <ul> to bullet point list <ol>.
+  - Changed from an unordered list to bullet point list.
 
 To set up and run the project (I am using MacOS. These commands may differ based on your dev environmemt setup, if you are a Windows user... Good Luck & Godspeed: ask Google, or ChatGPT lol):
   - set up a new directory in VS Code named JTC-Todo-List
