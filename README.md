@@ -22,7 +22,7 @@ To set up and run the project (I am using MacOS. These commands may differ based
         - pip install flask
          - or
         - pip3 install flask
-      - install sqalchemy dependencies by running:
+      - install sqalchemy dependencies by running DOCUMENTS/Flask directory:
         - pip install flask_sqlalchemy
          - or
         - pip3 install flask_sqlalchemy 
