@@ -26,10 +26,10 @@ To set up and run the project (I am using MacOS. These commands may differ based
         - pip install flask_sqlalchemy
          - or
         - pip3 install flask_sqlalchemy 
-      - run the main file with the following command in your terminal from the /Flask directory:
+      - run the main file with the following command in your terminal from the DOCUMENTS/Flask directory:
         - python3 todo.py
       -  Bang your head against the keyboard then continue :-)
-      -  install a virtual environment by running this command:
+      -  install a virtual environment by running this command from the DOCUMENTS/Flask directory:
         - python -m venv .venv
          - or
         - python3 -m venv .venv
